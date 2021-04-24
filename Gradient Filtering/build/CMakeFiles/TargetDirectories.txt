@@ -1,0 +1,5 @@
+/home/claudiu/Udacity/Camera/Gradient Filtering/build/CMakeFiles/rebuild_cache.dir
+/home/claudiu/Udacity/Camera/Gradient Filtering/build/CMakeFiles/edit_cache.dir
+/home/claudiu/Udacity/Camera/Gradient Filtering/build/CMakeFiles/magnitude_sobel.dir
+/home/claudiu/Udacity/Camera/Gradient Filtering/build/CMakeFiles/gradient_sobel.dir
+/home/claudiu/Udacity/Camera/Gradient Filtering/build/CMakeFiles/gaussian_smoothing.dir
